@@ -1,4 +1,4 @@
-# API Testing With KatalonStudio 7.x
+# API Testing With Katalon Studio 7.x
 
 Katalon Studio is a comprehensive tool set for web and mobile app automation testing. This repo is for Katalon Studio version 7.4.x
 
