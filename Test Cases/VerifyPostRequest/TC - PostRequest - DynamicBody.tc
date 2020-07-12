@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC-PostRequest</name>
+   <name>TC - PostRequest - DynamicBody</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>8a11db29-0b88-4f02-a095-ad906b228b58</testCaseGuid>
+   <testCaseGuid>6b74cb28-02c9-4c89-891b-958d9a63778e</testCaseGuid>
    <variable>
-      <defaultValue>2</defaultValue>
+      <defaultValue>0</defaultValue>
       <description></description>
-      <id>c6b2c9de-1233-4cea-bb0a-371019fdbc93</id>
+      <id>56fafce8-5db9-49cc-b675-c6b47282e41e</id>
       <masked>false</masked>
-      <name>uniq_id</name>
+      <name>test_id</name>
    </variable>
 </TestCaseEntity>

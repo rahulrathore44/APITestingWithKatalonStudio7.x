@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC-PostRequest</name>
+   <name>TC - DeleteRequest</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>8a11db29-0b88-4f02-a095-ad906b228b58</testCaseGuid>
+   <testCaseGuid>8524c01d-5462-4f83-8ee2-495dbb5c3377</testCaseGuid>
    <variable>
-      <defaultValue>2</defaultValue>
+      <defaultValue>0</defaultValue>
       <description></description>
-      <id>c6b2c9de-1233-4cea-bb0a-371019fdbc93</id>
+      <id>8be1a2c4-5be5-4031-98a2-44fca3320947</id>
       <masked>false</masked>
-      <name>uniq_id</name>
+      <name>test_id</name>
    </variable>
 </TestCaseEntity>

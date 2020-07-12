@@ -60,8 +60,8 @@ requestObject.setRestUrl("http://localhost:8080/laptop-bag/webapi/api/add")
 requestObject.setRestRequestMethod("POST")
 
 'Configure the Body'
-//HttpBodyContent content = new HttpTextBodyContent(stringBody)
-HttpBodyContent content = new HttpFileBodyContent("C:\\Users\\rathr1\\Desktop\\PostRequestData.txt")
+HttpBodyContent content = new HttpTextBodyContent(stringBody)
+//HttpBodyContent content = new HttpFileBodyContent("C:\\Users\\rathr1\\Desktop\\PostRequestData.txt")
 requestObject.setBodyContent(content)
 
 'Send The Post Request'
