@@ -4,4 +4,14 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://jobapplicationjwt.herokuapp.com/users/sign-up'</initValue>
+      <name>reg_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://jobapplicationjwt.herokuapp.com/users/authenticate'</initValue>
+      <name>auth_url</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
