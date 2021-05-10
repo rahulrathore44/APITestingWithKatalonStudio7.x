@@ -4,6 +4,10 @@ Katalon Studio is a comprehensive tool set for web and mobile app automation tes
 
 Framework for testing the RESTFul service using Katalon Studio 7.x
 
+# Get Katalon Studio for FREE
+
+https://www.katalon.com/?getr=NDY1OTMx 
+
 # Course Link (Discount Coupon)
 
 https://www.udemy.com/course/automation-testing-using-selenium-katalon-studio/?couponCode=DISC50
