@@ -14,4 +14,9 @@
       <initValue>'https://jobapplicationjwt.herokuapp.com/users/authenticate'</initValue>
       <name>auth_url</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>10</initValue>
+      <name>timeout</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

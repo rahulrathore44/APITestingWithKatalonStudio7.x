@@ -6,6 +6,7 @@
    <UUID>0ae929e7-29ae-4eec-82f3-22d42c11a71a</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Data\GitHub\APITestingWithKatalonStudio7.x\WebServiceTest.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
